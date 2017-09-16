@@ -27,5 +27,5 @@ long sum_primes(int limit) {
 int main() {
   long thesum = sum_primes(2000000);
   //printf("%d\n", 5);
-  printf("%ldd\n", thesum);
+  printf("%ld\n", thesum);
 }
